@@ -4,11 +4,11 @@ public class ejercicio7 {
     public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
 
-        double radio;
-        double longitud;
-        double area;
+  double radio;
+  double longitud; 
+  double area;
 
-        System.out.println("ingrese la medida del radio en cm");
+        System.out.println("debes ingresar una medida para poder calcular el tamaño del radio");
         radio = lector.nextDouble();
 
 
